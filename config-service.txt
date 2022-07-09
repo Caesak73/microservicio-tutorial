@@ -1,0 +1,22 @@
+Crear cuenta git --> Caesak73 Borreguero73
+Crear un nuevo repositorio microservicio-tutorial
+
+
+
+C:\Users\César Lozano\Desktop\microservicio-tutorial
+
+…o crea un nuevo repositorio en la línea de comando
+echo "# microservicio-tutorial" >> README.md 
+git init 
+git add README.md 
+git commit -m "first commit" 
+git branch -M main 
+git remote add origin https://github.com/Caesak73/microservicio-tutorial. git
+git push -u origen principal
+
+https://github.com/Caesak73/microservicio-tutorial.git
+
+…o inserte un repositorio existente desde la línea de comando
+git remoto agregar origen https://github.com/Caesak73/microservicio-tutorial.git
+ git rama -M principal 
+git push -u origen principal
